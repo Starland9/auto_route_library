@@ -1,4 +1,4 @@
-name: melos_root
+name: auto_route_generator
 publish_to: none
 
 environment:
